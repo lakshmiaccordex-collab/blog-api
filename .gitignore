@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Uploads (don't commit user files)
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
